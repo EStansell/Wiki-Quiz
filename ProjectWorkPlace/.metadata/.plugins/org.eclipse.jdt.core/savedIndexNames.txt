@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\Erik Stansell\Documents\Neumont\DBT330 Persistence Applicaions\Lab 3\ProjectWorkPlace\.metadata\.plugins\org.eclipse.jdt.core
+592100887.index
